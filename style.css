@@ -1,0 +1,128 @@
+html body {
+    background: #b33636e7;
+    margin: 30px;
+    
+}
+
+.mainHeader{
+    border-radius: 20px;
+    font-size: 20px;
+    background: rgb(62, 98, 167);
+    padding: 15px 20px;
+    text-align: right;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+
+.header{
+    text-align: right;
+    padding:20px 40px 0 0;
+    font-size: 30px;
+    height: 150px;
+    color:darkred;
+}
+
+.h1Header{
+    color: rgb(21, 53, 112);
+}
+
+.whoAmI{
+    width: 94%;
+    padding:0 0 0 6%;
+}
+
+.article{
+    width: 65%;
+    float: left;
+}
+
+.sectionName {
+    color: #1460aa;
+    font-size: 35px;
+    padding-left: 25px;
+}
+
+.mainP{
+    font-size: 20px;
+    padding:0 40px;
+}
+
+.goTo{
+    text-align: right;
+    font-size: 20px;
+}
+
+.authorImage{
+    padding: 0 30px;
+}
+
+.wtp{
+    background: #082e53;
+    color: white;
+    border-radius: 20px;
+    width: 40%;
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.diary{
+    height: 1000px;
+    border-radius: 20px;
+    background: #c4caca;
+    padding:5px 0 10px 50px;
+    margin-bottom: 30px;
+}
+
+.day{
+    float: left;
+    margin:0 3.3% 20px 0;
+    height: 200px;
+    font-size: 18px;
+    border-radius: 20px;
+    width: 30%;
+    background: #1460aa;
+}
+
+h3{
+    font-size: 25px;
+    padding:20px 0 0 30px;
+    margin: 0;
+}
+
+.wtfLogo{
+    padding-right: 5%;
+    float: right;
+    width: 20%;
+}
+
+.dailyP{
+    padding-top: 30px;
+    margin:0 50px;
+    color:white;
+}
+
+.mainFooter{
+    clear: both;
+    border-radius: 20px;
+    font-size: 15px;
+    background: rgb(21, 53, 112);
+    padding: 15px 20px;
+    text-align: center;
+    color:white;
+}
+
+.senseOfSection{
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    border-radius: 20px;
+    background: #cdcdcd;
+    height: 200px;
+    margin-bottom: 30px;
+}
