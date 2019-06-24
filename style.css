@@ -53,11 +53,14 @@ html body {
 
 .goTo{
     font-size: 20px;
-/*  text-align: right;   -- close enough --   */
+    display: block;
+    text-align: right;  /* -- close enough --   */
+    padding-right: 40px;
 }
 
 .authorImage{
     padding: 0 30px;
+    border-radius: 20%;
 }
 
 .wtp{
